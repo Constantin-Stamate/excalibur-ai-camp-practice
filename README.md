@@ -2,8 +2,6 @@
 
 This repository contains the homework assignments completed as part of the **Excalibur AI Camp**, an educational program focused on **Machine Learning**, **Python programming**, and data analysis tools such as **NumPy** and **Pandas**.
 
----
-
 ## Structure
 
 The project is organized into four main folders, each corresponding to a lesson from the camp:
@@ -17,16 +15,12 @@ lesson_6/     # Data analysis projects using Pandas
 
 Each folder contains Jupyter notebooks relevant to that lesson's subject.
 
----
-
 ## Technologies & Topics Covered
 
 -  Python (core syntax, control structures, functions)
 -  NumPy (arrays, indexing, broadcasting, mathematical operations)
 -  Pandas (Series, DataFrames, filtering, aggregation)
 -  Jupyter Notebooks for interactive coding
-
----
 
 ## How to Run
 
@@ -72,8 +66,6 @@ Download and install Python from: [https://www.python.org/downloads/](https://ww
 
 Then open the desired `.ipynb` file from the lesson folders.
 
----
-
 ## About the Camp
 
 **Excalibur AI Camp** is an intensive training program focused on real-world applications of Python in data science and machine learning. Throughout the course, participants covered topics including:
@@ -86,8 +78,6 @@ Then open the desired `.ipynb` file from the lesson folders.
 - Building and evaluating simple machine learning models
 
 Each lesson included hands-on assignments to reinforce the concepts through practice and real datasets.
-
----
 
 ## Author
 
